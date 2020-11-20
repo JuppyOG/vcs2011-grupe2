@@ -5,12 +5,17 @@
 
 
 /* Rytis stiliaus kodas: */
-
-
+.contact-us-block .contact-us-oposite {
+    padding-left: 50px;
+}
 
 
 
 /* Lukas stiliaus kodas: */
+row{
+ width: 50%;
+ background-color: darkmagenta;   
+}
 
 
 
