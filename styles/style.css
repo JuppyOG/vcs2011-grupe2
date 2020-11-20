@@ -34,8 +34,8 @@ row{
 /* Gabija stiliaus kodas: */
 .fonas{
    
-    background-color: lightgray;
-    background-image: ;
+   
+    background-image: url(../images/unnamed.jpg);
     background-size: cover;
     background-position: center center;
 }
