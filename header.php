@@ -17,8 +17,8 @@
 
 <body>
 <nav>
-    <div class="nav-wrapper">
-      <a href="#" class="brand-logo">Logo</a>
+    <div class="nav-wrapper blue darken-3">
+      <a href="#" class="brand-logo ">Group 2</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About Us</a></li>
