@@ -26,7 +26,7 @@ Edita.Busima programuotoja<a class="btn" href="">Issamiau</a>
 <div class="row">
 
 <div class="col s12 m6 l6 ">
-    <img src="https://picsum.photos/150" alt="">
+    <img src="123.jpg" alt="">
     <p>
     Lukas Špelveris.Future programer <a class="btn-small" href="">Issamiau</a>
     </p>
