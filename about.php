@@ -2,27 +2,27 @@
 <?php include "header.php" ?>
 
 
-
+<div class="container">
 <div class="row">
     <div class="images">
 
 <div class="col s12 m6 l6 ">
     <img src="images/the best.jpg" alt="">
     <p>
-    Lukas Špelveris.Future programmer <a class="btn-small" href="">Issamiau</a>
+    Lukas.Future programmer <a class="btn-small" href="">Issamiau</a>
     </p>
 </div>
 
 <div class="col s12 m6 l6 ">
     <img src="images/the best.jpg" alt="">
     <p>
-    Gabija Gasiunaite.Future programmer <a class="btn-small" href="">Issamiau</a>
+    Gabija.Future programmer <a class="btn-small" href="">Issamiau</a>
     </p>
 </div>
 
 <div class="col s12 m6 l6 "><img src="images/the best.jpg" alt="">
     <p>
-    Rytis Urbonas.Future programmer <a class="btn-small" href="">Issamiau</a>
+    Rytis.Future programmer <a class="btn-small" href="">Issamiau</a>
     </p>
 </div>
 
@@ -30,6 +30,7 @@
     <p>
     Edita.Future programmer <a class="btn-small" href="">Issamiau</a>
     </p>
+</div>
 </div>
 </div>
 </div>
