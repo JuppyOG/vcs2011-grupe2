@@ -11,6 +11,10 @@
 
 
 /* Lukas stiliaus kodas: */
+row{
+ width: 50%;
+ background-color: darkmagenta;   
+}
 
 
 
