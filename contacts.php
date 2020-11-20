@@ -44,7 +44,21 @@
             </div>
         </div>
     </div>
-<h1 class="center-align">Our location</h1>
+    <h1 class="center-align">Our location</h1>
+    <div class="row">
+        <div class="col s6 center-align">
+            <div><img src="images/homeicon.png" alt=""></div>
+            <div>
+                <h4>Our headquarters</h4>
+                <h5>Ulonų g. 5,<br>
+                    I laiptinė, 3 aukštas,<br>
+                    313 kab., Vilnius</h5>
+            </div>
+        </div>
+        <div class="col s6 center-align">
+           <div><img src="images/map.png" alt=""></div>
+        </div>
+    </div>
 </div>
 
 
