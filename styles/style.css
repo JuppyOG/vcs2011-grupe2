@@ -28,3 +28,14 @@ row{
 
 
 /* Gabija stiliaus kodas: */
+.fonas{
+   
+    background-color: lightgray;
+    background-image: url( "https://picsum.photos/1920/300");
+    background-size: cover;
+    background-position: center center;
+}
+.fono-tekstas{
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
