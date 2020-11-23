@@ -1,5 +1,7 @@
 
 <?php include "header.php" ?>
+<div class= "pagrindinis-fonas">
+
 <div class="fonas"> 
   <div class= "fono-tekstas container center-align" >
  
@@ -27,7 +29,7 @@
         
             <div class="col s12 m6 l4"><img src="images/javalogo.png" alt="Java logo">
             <h5>Java</h5>
-            <p>Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.</p>
+            <p>Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once.</p>
             <a  class= " waves-effect waves-light btn"  href="https://google.com"><i class="material-icons left">
     </i>read more about Java</a>
             </div>
@@ -39,6 +41,7 @@
             </div>
 
 
+</div>
 </div>
 
 <?php include "footer.php" ?>
