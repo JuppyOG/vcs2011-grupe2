@@ -2,6 +2,17 @@
 <?php include "header.php" ?>
 
 
+<div class="picture"> 
+  <div class= "fono-tekstas container center-align" >
+ 
+<h1 class="rgb(170, 170, 245) blue-text">
+        These are our group members.
+    </h1>
+    <!-- <a  class= " waves-effect waves-light btn"  href="#"><i class="material-icons left">
+    </i>read more</a> -->
+  </div>
+</div>
+
 <div class="container">
 <div class="row">
     <div class="images">

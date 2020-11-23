@@ -33,6 +33,17 @@
  align-content: center;
  /* background-color: darkred; */
 }
+.picture{
+   
+   
+    background-image: url(../images/lapai.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.fono-tekstas{
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
 
 
 
@@ -40,9 +51,34 @@
 
 /* Edita stiliaus kodas: */
 
+.container {
+    display: flex;
+    border: 15px solid black;
+}
 
+.flexbox-item {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 10px;
+}
 
+.Rytis {
+    min-height: 100px;
+}
 
+.Lukas {
+    min-height: 100px;
+}
+
+.Edita {
+    min-height: 100px;
+}
+
+.Gabija {
+    min-height: 100px;
+}
 
 /* Gabija stiliaus kodas: */
 .fonas{
