@@ -1,26 +1,30 @@
     <!-- Čia pasikartojanti visuose puslapiuose apatinė dalis -->
-    <footer class="page-footer">
+    <footer class="page-footer blue darken-3">
         <div class="container">
             <div class="row">
                 <div class="col l6 s12">
-                    <h5 class="white-text">Footer Content</h5>
-                    <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                    <h5 class="white-text">Reach us individually</h5>
+                    <p class="grey-text text-lighten-4">In order to contact us individually press the link of the person name you want to write and you will be able to send them an email.
+                    <i class="material-icons">mail_outline</i>
+                    </p>
                 </div>
                 <div class="col l4 offset-l2 s12">
-                    <h5 class="white-text">Links</h5>
+                    <h6 class="white-text">Group members</h6>
                     <ul>
-                        <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Gabija</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Lukas</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Edita</a></li>
+                        <li><a class="grey-text text-lighten-3" href="#!">Rytis</a></li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="footer-copyright">
             <div class="container">
-                © 2014 Copyright Text
-                <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+                Copyright © 2020 VCS Group 2. All rights reserved.
+                <a class="grey-text text-lighten-4 right" href="#!">Privacy Policy</a>
+                <a class="grey-text text-lighten-4 right" href="#!">Terms of Use</a>
+                <a class="grey-text text-lighten-4 right" href="#!">Support</a>
             </div>
         </div>
     </footer>

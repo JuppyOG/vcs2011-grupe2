@@ -5,12 +5,36 @@
 
 
 /* Rytis stiliaus kodas: */
+.contact-us-block .contact-us-oposite {
+    padding-top: 100px;
+    padding-left: 50px;
+}
 
-
+.footer-copyright a {
+    margin-right: 20px;
+}
 
 
 
 /* Lukas stiliaus kodas: */
+.row .images{
+ width: 100%;
+ /* height: 50px; */
+ padding-left: 50px;
+ align-content: center;
+ /* background-color: darkred; */
+}
+.picture{
+   
+   
+    background-image: url(../images/lapai.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.fono-tekstas{
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
 
 
 
@@ -48,3 +72,14 @@
 }
 
 /* Gabija stiliaus kodas: */
+.fonas{
+   
+   
+    background-image: url(../images/unnamed.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.fono-tekstas{
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
