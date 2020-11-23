@@ -24,6 +24,17 @@
  align-content: center;
  /* background-color: darkred; */
 }
+.picture{
+   
+   
+    background-image: url(../images/lapai.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.fono-tekstas{
+    padding-top: 300px;
+    padding-bottom: 50px;
+}
 
 
 
