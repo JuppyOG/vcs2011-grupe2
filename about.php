@@ -36,7 +36,7 @@
     <img src="images/boy2.jpg" alt="">
     <p>
     <i class="material-icons">laptop_windows</i>
-    Rytis.Future programmer <a class="btn-small" href="">More</a>
+    Rytis.Future programmer <a class="btn-small" href="rytis.php">More</a>
     </p>
 </div>
 
