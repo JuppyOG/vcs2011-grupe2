@@ -36,10 +36,8 @@
         <div class="col s6 m6">
         </div>
         <div class="col s6 m6">
-            <!-- Slideshow container -->
             <div class="slideshow-container">
 
-                <!-- Full-width images with number and caption text -->
                 <div class="mySlides fade">
                     <div class="numbertext">1 / 3</div>
                     <img src="images/Clogo.png" style="width:500px heigh:500px ">
@@ -58,13 +56,11 @@
                     <div class="text">PHP</div>
                 </div>
 
-                <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                 <a class="next" onclick="plusSlides(1)">&#10095;</a>
             </div>
             <br>
 
-            <!-- The dots/circles -->
             <div style="text-align:center">
                 <span class="dot" onclick="currentSlide(1)"></span>
                 <span class="dot" onclick="currentSlide(2)"></span>
