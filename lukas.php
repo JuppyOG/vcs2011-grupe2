@@ -2,6 +2,7 @@
 <div class="pasisveikinimas white-text blue darken-3">
 <h1>Hi everybody!!!</h1>
 </div>
+
 <div class="container">
 <div class="Lukas">
 <div class="row">
@@ -13,7 +14,7 @@
           <a class="btn-floating halfway-fab waves-effect waves-light blue darken-3"><i class="material-icons">account_circle</i></a>
         </div>
         <div class="card-content">
-          <p>My name is Lukas Špelveris 27 y.o. male . I`m starting my carrier in programming. So far I learned basics of Java, C# and PHP</p>
+          <p>My name is Lukas Špelveris 27 y.o. male . I`m starting my career in programming. So far I learned basics of Java, C# and PHP</p>
         </div>
       </div>
     </div>
@@ -25,8 +26,7 @@
           <a class="btn-floating halfway-fab waves-effect waves-light blue darken-3"><i class="material-icons">accessibility</i></a>
         </div>
         <div class="card-content">
-          <p>I like the outdoors, basketball, football, swimming, computer games... 
-              
+          <p>I like the outdoors, basketball, football, swimming, computer games...              
         </p>
         </div>
       </div>
