@@ -43,6 +43,11 @@
 .Lukas{
     background-size: cover;
     background-position: center center;
+    padding-left: 25px;
+}
+.Lukas row{
+    background-size: cover;
+    background-position: center center;
     padding-left: 150px;
 }
 
