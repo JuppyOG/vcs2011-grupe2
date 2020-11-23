@@ -1,6 +1,11 @@
 <?php include "header.php" ?>
 
-<h1 class="center-align">Contact Us</h1>
+<div class="contact-background"> 
+  <div class= "contact-text container center-align " >
+      <h1 class="blue lighten-5 ">Contact Us</h1>
+  </div>
+</div>
+<br><br><br><br><br>
 <div class="container">
     <div class="row contact-us-block">
         <form class="col s6">
