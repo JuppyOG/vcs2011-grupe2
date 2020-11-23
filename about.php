@@ -20,7 +20,7 @@
     <img src="images/boy.jpg" alt="">
     <p>
     <i class="material-icons">laptop_windows</i>
-    Lukas.Future programmer <a class="btn-small" href="">More</a>
+    Lukas.Future programmer <a class="btn-small" href="lukas.php">More</a>
     </p>
 </div>
 
