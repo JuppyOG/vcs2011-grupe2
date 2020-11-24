@@ -55,7 +55,7 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4">To contact me<i class="material-icons right">close</i></span>
-      <p>by phone:+37066224455.</p>
+      <p>by phone:+37066224455.<br> by email:sadasd@asdas.com</p>
     </div>
   </div>
   </div>
