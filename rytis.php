@@ -14,7 +14,7 @@
                     <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
-                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                    <p>My name is Rytis 27 y.o. male . I`m starting my career in programming. So far I learned basics of Java, C# and PHP</p>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
                     <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
-                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                    <p>My hobbies consist of playing basketball, watching movies, reading books, playing video games and eating snacks</p>
                 </div>
             </div>
         </div>
@@ -35,7 +35,7 @@
     <div class="row">
         <div class="col s6 m6">
             <br><br><br>
-            <h3>Languages i learned</h3>
+            <h4>Languages i learned</h4>
         </div>
         <div class="col s6 m6">
             <div class="slideshow-container">
