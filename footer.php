@@ -4,7 +4,9 @@
             <div class="row">
                 <div class="col l6 s12">
                     <h5 class="white-text">Reach us individually</h5>
-                    <p class="grey-text text-lighten-4">In order to contact us individually press the link of the person name you want to write and you will be able to send them an email.</p>
+                    <p class="grey-text text-lighten-4">In order to contact us individually press the link of the person name you want to write and you will be able to send them an email.
+                    <i class="material-icons">mail_outline</i>
+                    </p>
                 </div>
                 <div class="col l4 offset-l2 s12">
                     <h6 class="white-text">Group members</h6>
