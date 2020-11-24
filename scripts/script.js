@@ -6,7 +6,10 @@
 
 /* Rytis stiliaus kodas: */
 var slideIndex = 1;
-showSlides(slideIndex);
+var slides = document.getElementsByClassName("mySlides");
+if (slides.lenght > 0) {
+  showSlides(slideIndex);
+}
 
 function plusSlides(n) {
   showSlides(slideIndex += n);
