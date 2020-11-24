@@ -47,3 +47,17 @@
     padding-top: 300px;
     padding-bottom: 50px;
 }
+.pagrindinis-fonas {
+    background-color: lightslategray;
+    overflow: hidden;
+
+}
+
+.programavimo-kalbu-logo {
+    height: 100px;
+}
+.parallax-container {
+    z-index: 100;
+
+}
+      
