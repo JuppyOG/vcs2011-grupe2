@@ -146,6 +146,11 @@
     background-position: center center;
     text-align: center;
 }
+material-icons{
+  align-items: center center;
+  position: absolute;
+
+}
 
 
 
