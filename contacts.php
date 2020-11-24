@@ -61,7 +61,7 @@
             </div>
         </div>
         <div class="col s6 center-align">
-           <div><img src="images/map.png" alt=""></div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1152.4917555425038!2d25.29122255834358!3d54.709913244628545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96ae1dedd637%3A0x73978617430c730c!2sUlon%C5%B3%20g.%205%2C%20Vilnius%2008240!5e0!3m2!1slt!2slt!4v1606214558111!5m2!1slt!2slt" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>Z
         </div>
     </div>
 </div>
