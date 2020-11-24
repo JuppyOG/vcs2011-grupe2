@@ -6,7 +6,10 @@
 
 /* Rytis stiliaus kodas: */
 var slideIndex = 1;
-showSlides(slideIndex);
+var slides = document.getElementsByClassName("mySlides");
+if (slides.lenght > 0) {
+  showSlides(slideIndex);
+}
 
 function plusSlides(n) {
   showSlides(slideIndex += n);
@@ -48,3 +51,7 @@ function showSlides(n) {
 
 
 /* Gabija stiliaus kodas: */
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.parallax');
+    var instances = M.Parallax.init(elems);
+  });

@@ -9,8 +9,8 @@
         <div class="col s12 m6">
             <div class="card">
                 <div class="card-image">
-                    <img src="images/sample-1.jpg">
-                    <span class="card-title">Card Title</span>
+                    <img src="images/defaultImageResized.jpg">
+                    <span class="card-title">Rytis</span>
                     <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
@@ -21,8 +21,8 @@
         <div class="col s12 m6">
             <div class="card">
                 <div class="card-image">
-                    <img src="images/sample-1.jpg">
-                    <span class="card-title">Card Title</span>
+                    <img src="images/hobby.jpg">
+                    <span class="card-title">Hobbies</span>
                     <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
@@ -34,6 +34,8 @@
 
     <div class="row">
         <div class="col s6 m6">
+            <br><br><br>
+            <h3>Languages i learned</h3>
         </div>
         <div class="col s6 m6">
             <div class="slideshow-container">
