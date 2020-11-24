@@ -161,14 +161,16 @@ material-icons{
 
 .team {
     display: flex;
-    border: 15px solid black;
+    border: 5px solid black;
+    flex-direction: column;
+    margin-bottom: 40px;
 }
 
 .flexbox-item {
-    background-color: lightgrey;
-    width: 300px;
-    border: 15px solid black;
-    padding: 50px;
+    background-color: white;
+    width: 915px;
+    border: 5px solid black;
+    padding: 10px;
     margin: 10px;
 }
 
@@ -187,6 +189,7 @@ material-icons{
 .Gabija {
     min-height: 100px;
 }
+
 
 /* Gabija stiliaus kodas: */
 .fonas{
