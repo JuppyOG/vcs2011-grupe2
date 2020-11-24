@@ -32,11 +32,11 @@
       </div>
     </div>
   </div>
-  <div class="row">
+  <!-- <div class="row">
     <div class="col s12 m6">
       <div class="card">
         <div class="card-image">
-          <img src="images/defaultImageResized.jpg">
+          <img src="images/Information.jpg">
           <span class="card-title blue darken-3">For more information</a></span>
           <a class="btn-floating halfway-fab waves-effect waves-light blue darken-3"><i class="material-icons">chat</i></a>
         </div>
@@ -44,7 +44,20 @@
           <p>To contact me: <i class="material-icons">arrow_forward</i> <a class="btn-small" href="contacts.php">here</a></p>
         </div>
       </div>
+    </div> -->
+    <div class="card">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" src="https://picsum.photos/1100/200">
     </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4">To contact me<i class="material-icons right">more_vert</i></span>
+      <!-- <p><a href="contacts.php">press here</a></p> -->
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4">To contact me<i class="material-icons right">close</i></span>
+      <p>by phone:+37066224455.<br> by email:sadasd@asdas.com</p>
+    </div>
+  </div>
   </div>
 </div>
 

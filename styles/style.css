@@ -146,6 +146,13 @@
     background-position: center center;
     text-align: center;
 }
+material-icons{
+  align-items: center center;
+  position: absolute;
+}
+ .material-icons {
+ vertical-align: middle;
+}
 
 
 
@@ -212,3 +219,17 @@
     padding-top: 300px;
     padding-bottom: 50px;
 }
+.pagrindinis-fonas {
+    background-color: lightslategray;
+    overflow: hidden;
+
+}
+
+.programavimo-kalbu-logo {
+    height: 100px;
+}
+.parallax-container {
+    z-index: 100;
+
+}
+      
