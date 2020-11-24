@@ -28,7 +28,7 @@
     <img src="images/girl.jpg" alt="">
     <p>
     <i class="material-icons">laptop_mac</i>
-    Gabija.Future programmer <a class="btn-small" href="">More</a>
+    Gabija.Future programmer <a class="btn-small" href="gabija.php">More</a>
     </p>
 </div>
 
@@ -44,7 +44,7 @@
     <img src="images/girl2.jpg" alt="">
     <p>
     <i class="material-icons">laptop_mac</i>
-    Edita.Future programmer <a class="btn-small" href="">More</a>
+    Edita.Future programmer <a class="btn-small" href="edita.php">More</a>
     </p>
 </div>
 </div>
