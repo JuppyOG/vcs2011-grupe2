@@ -8,8 +8,7 @@
 <h1 class="rgb(170, 170, 245) blue-text">
         These are our group members.
     </h1>
-    <!-- <a  class= " waves-effect waves-light btn"  href="#"><i class="material-icons left">
-    </i>read more</a> -->
+
   </div>
 </div>
 
@@ -21,7 +20,7 @@
     <img src="images/boy.jpg" alt="">
     <p>
     <i class="material-icons">laptop_windows</i>
-    Lukas.Future programmer <a class="btn-small" href="">More</a>
+    Lukas.Future programmer <a class="btn-small" href="lukas.php">More</a>
     </p>
 </div>
 
@@ -29,7 +28,7 @@
     <img src="images/girl.jpg" alt="">
     <p>
     <i class="material-icons">laptop_mac</i>
-    Gabija.Future programmer <a class="btn-small" href="">More</a>
+    Gabija.Future programmer <a class="btn-small" href="gabija.php">More</a>
     </p>
 </div>
 
@@ -37,7 +36,7 @@
     <img src="images/boy2.jpg" alt="">
     <p>
     <i class="material-icons">laptop_windows</i>
-    Rytis.Future programmer <a class="btn-small" href="">More</a>
+    Rytis.Future programmer <a class="btn-small" href="rytis.php">More</a>
     </p>
 </div>
 
@@ -45,12 +44,13 @@
     <img src="images/girl2.jpg" alt="">
     <p>
     <i class="material-icons">laptop_mac</i>
-    Edita.Future programmer <a class="btn-small" href="">More</a>
+    Edita.Future programmer <a class="btn-small" href="edita.php">More</a>
     </p>
 </div>
 </div>
 </div>
 </div>
+
 
 
 <?php include "footer.php" ?>
