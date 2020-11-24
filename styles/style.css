@@ -149,7 +149,9 @@
 material-icons{
   align-items: center center;
   position: absolute;
-
+}
+ .material-icons {
+ vertical-align: middle;
 }
 
 
