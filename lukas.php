@@ -32,6 +32,19 @@
       </div>
     </div>
   </div>
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="card">
+        <div class="card-image">
+          <img src="images/defaultImageResized.jpg">
+          <span class="card-title blue darken-3">For more information</a></span>
+          <a class="btn-floating halfway-fab waves-effect waves-light blue darken-3"><i class="material-icons">chat</i></a>
+        </div>
+        <div class="card-content">
+          <p>To contact me: <i class="material-icons">arrow_forward</i> <a class="btn-small" href="contacts.php">here</a></p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
